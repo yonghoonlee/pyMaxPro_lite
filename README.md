@@ -2,7 +2,7 @@
 
 Simple MaxPro space-filling algorithm implementation in python.
 
-The code utilizes MaxPro criterion described in [Joseph, Gul, and Ba](https://doi.org/10.1093/biomet/asv002), but does not contain fancy functionalities that the original authors implemented in R language.
+The code utilizes MaxPro criterion described in [V. Roshan Joseph, Evren Gul, and Shan Ba (2015)](https://doi.org/10.1093/biomet/asv002), but does not contain fancy functionalities that the original authors implemented in R language.
 
 ## How to install
 
@@ -67,3 +67,6 @@ then you will get:
  [4.53881879e-01 8.68993411e-01 9.36525545e-01]]
 ```
 
+## Reference
+
+Joseph, V.R., Gul, E., Ba, S., (2015) "Maximum projection designs for computer experiments," *Biometrika*, **102**(*2*):371–380.
