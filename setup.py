@@ -3,7 +3,7 @@ from setuptools import find_packages
 from numpy.distutils.core import setup
 
 base_dir = os.path.dirname(__file__)
-src_dir = os.path.join(base_dir, "pymaxpro-lite")
+src_dir = os.path.join(base_dir, "pymaxpro_lite")
 
 about = {}
 with open(os.path.join(src_dir, "__about__.py")) as f:
